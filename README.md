@@ -1,5 +1,5 @@
-# intellij_goto_by_comment
-Go to file from comment in code
+# Go to file from comment in code
+
 
 type file path from project root
 ```
